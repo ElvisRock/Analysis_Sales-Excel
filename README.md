@@ -9,10 +9,14 @@ In this portfolio, I posed several questions in Excel, utilizing Excel formulas 
 
 
 
+Some of the Questions not included in the report, answered in each excel worksheet:
+
+- Determine the total increase in sales
+- Determine the new total Payroll
+- How many employees received a 3.50% raise?
+- Representatives with sales below $100.00 per day will be recommended for a development plan ?
+
 _________________________________
-
-
-
 
 *Points of Analysis in the report*
 - Daily sales figures 
@@ -20,14 +24,6 @@ _________________________________
 - Percentage contribution per representative
 
 ![](Image_report.PNG)
-
-
-
-
-
-
-
-
 
 
 ____________________________________________________
