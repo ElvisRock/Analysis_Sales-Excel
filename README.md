@@ -2,7 +2,12 @@
 
 ![](Image_Analysis-Excel.PNG)
 
+
+### Overview
+
+In this portfolio, I posed several questions in Excel, utilizing Excel formulas and VBA scripting. Ultimately, I compiled a report containing all the questions and findings, which you can review here: [Analysis_Sales-Excel.xlsb](https://github.com/ElvisRock/Analysis_Sales-Excel/blob/main/Analysis_Sales-Excel.xlsb)
 _________________________________
+
 
 
 
