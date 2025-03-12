@@ -1,0 +1,21 @@
+# Criado em Módulos (Atalho ALT+F11)
+
+Private Sub WORKSHEET_ACTIVATE()
+'Atualizar automatico, todas as realtorios, quando entrar mais dados
+ActiveWorkbook.RefreshAll
+
+End Sub
+
+
+________________________________________________________________
+
+# Abre na tela inteira do pc o relatorio de vendas (PLANILHA 4)
+
+Private Sub Workbook_open()
+'Abre na tela inteira do pc o relatorio de vendas
+    Application.DisplayFullScreen = True
+    Application.DisplayFormulaBar = False
+    ActiveWindow.DisplayWorkbookTabs = False
+    
+
+End Sub
