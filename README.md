@@ -41,4 +41,5 @@ ______________________________
 
 ______________________________
 Docs from reference: [Office VBA](https://learn.microsoft.com/pt-br/office/vba/api/overview/)
-Visit: [ViewPage](https://elvisrock.github.io/Analysis_Sales-Excel/)
+
+Visit: [View Page](https://elvisrock.github.io/Analysis_Sales-Excel/)
