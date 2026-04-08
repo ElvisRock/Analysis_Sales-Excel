@@ -38,7 +38,11 @@ In the folder [0-To_Do](https://github.com/ElvisRock/Analysis_Sales-Excel/tree/m
 In the text file [Script_VBA.txt](https://github.com/ElvisRock/Analysis_Sales-Excel/blob/main/Script_VBA.txt), there are VBA scripts with comments explaining what each one does. To directly access Excel's VBA, use the shortcut ALT+F11. If it doesn't work, enable the 'DEVELOPER' tab in Excel.
 ______________________________
 
-
+#### Para utilizar a versão Clássica do Jpyter notebook. 
+#### No Shell
+```
+jupyter nbconvert --to html --template classic Analysis_Sales-Excel.ipynb
+```
 ______________________________
 Docs from reference: [Office VBA](https://learn.microsoft.com/pt-br/office/vba/api/overview/)
 
